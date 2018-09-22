@@ -1,0 +1,35 @@
+_repo: The-Earth-and-its-inhabitants-Volume-1-Europe-Greece-Turkey-in-Europe-Rumania-Servia-Monteneg__54760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reclus, Elisée
+    aliases:
+    - Reclus, Eliseo
+    - Reclus, Élisée
+    - Reclus, Jean Jacques Elisee
+    birthdate: 1830
+    deathdate: 1905
+    gutenberg_agent_id: '4044'
+    url: http://www.gutenberg.org/2009/agents/4044
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus
+  editor:
+    agent_name: Ravenstein, E.G.
+    gutenberg_agent_id: '48031'
+    url: http://www.gutenberg.org/2009/agents/48031
+description: ''
+gutenberg_issued: '2017-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Earth and its inhabitants, Volume 1: Europe.
+
+  Greece, Turkey in Europe, Rumania, Servia, Montenegro,
+
+  Italy, Spain, and Portugal.'
+url: http://www.gutenberg.org/ebooks/54760
